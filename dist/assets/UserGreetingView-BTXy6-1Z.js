@@ -1,0 +1,1 @@
+import{j as s,c as r,h as e,t as o,u as a,a as n,e as u,k as c,o as l,R as i}from"./index-CUOfSlSh.js";const f={__name:"UserGreetingView",setup(m){const t=s();return(_,p)=>(l(),r("div",null,[e(" Welkom "+o(a(t).params.name)+"! ",1),n("div",null,[u(a(i),{to:{name:"user"}},{default:c(()=>[e(" Terug ")]),_:1})])]))}};export{f as default};
